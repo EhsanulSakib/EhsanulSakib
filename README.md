@@ -1,3 +1,4 @@
+![Banner Image](https://raw.githubusercontent.com/EhsanulSakib/EhsanulSakib/main/banner.jpg)
 # 💫 About Me:
 👋 Hi there! I'm Kazi Ehsanul Haque<br><br>🎓 B.Sc. in Computer Science and Engineering from East West University<br>💼 Experienced in MERN Stack<br>💻 Passionate about Web Development and Software Engineering<br>🚀 Always eager to explore and learn new technologies<br>🤝 Love to collaborate on real-life projects<br>🎯 Team player with a strong work ethic
 
@@ -17,5 +18,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EhsanulSakib&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
